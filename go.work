@@ -1,1 +1,3 @@
 go 1.19
+
+use ./2023/january/01-fizzbuzz
